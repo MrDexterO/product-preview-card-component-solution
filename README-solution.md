@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/MrDexterO/product-preview-card-component-solution)
-- Live Site URL: [Site URL](https://mrdextero.github.io/Social-links-profile-challenge-on-Frontend-Mentor/)
+- Live Site URL: [Site URL](https://mrdextero.github.io/product-preview-card-component-solution/)
 
 ## My process
 
